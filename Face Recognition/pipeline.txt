@@ -1,0 +1,6 @@
+-create dataset
+	-> run script "dataset creator"
+-train the recognizer from the dataset
+	->run script "trainner"
+-Detector
+	->run the script "detector"
